@@ -19,29 +19,9 @@ I love building clean, maintainable systems, automating processes, and solving r
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
-![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)  
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
-
-**Database & Tools:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+| Language      | Frontend       | Backend       | Database & Tools |
+|---------------|----------------|----------------|------------------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) <br> ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) <br> ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) <br> ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) <br> ![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp) | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) <br> ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte) <br> ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) <br> ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) | ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) <br> ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) <br> ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) <br> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) <br> ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) <br> ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) |
 
 ---
 
