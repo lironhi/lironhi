@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Liron
 
-<!--
-**lironhi/lironhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer passionate about backend development, Full Stack projects, data engineering, and building efficient web solutions.  
+💬 Graduate from SCE - Shamoon College of Engineering.  
+🌍 Based in Israel.
 
-Here are some ideas to get you started:
+🔧 Tech stack:
+- Backend: Node.js, Express, NestJS
+- Frontend: React, TypeScript
+- Database: MongoDB, PostgreSQL
+- DevOps: Docker, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:
+[LinkedIn](https://linkedin.com/in/liron-himbert) | [GitHub](https://github.com/lironhi)
