@@ -35,13 +35,6 @@ I love building clean, maintainable systems, automating processes, and solving r
 
 ---
 
-## 📈 GitHub Stats
-
-![Liron's GitHub stats](https://github-readme-stats.vercel.app/api?username=lironhi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lironhi&layout=compact&theme=radical)
-
----
-
 ## 📫 Get in Touch
 
 - 🔗 [LinkedIn](https://linkedin.com/in/liron-himbert)  
