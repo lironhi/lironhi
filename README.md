@@ -1,46 +1,46 @@
-# 👋 Hi, I'm Liron Himbert
+# 👋 Hey there, I'm **Liron Himbert**
 
-🎓 Software Engineer graduate from [SCE - Shamoon College of Engineering](https://sce.ac.il), passionate about building scalable, user-centered solutions using modern technologies.
+🎓 **Software Engineer** graduate from [SCE – Shamoon College of Engineering](https://sce.ac.il), passionate about creating **scalable, user-focused solutions** powered by modern technologies.
 
-💼 Currently:  
-IT & FullStack Developer at Callisto  
-📍 Based in Ashkelon, Israel
+💼 **Currently:** IT & Full-Stack Developer at **Callisto**  
+📍 **Location:** Ashkelon, Israel  
 
 ---
 
-## 🚀 About Me
+## 🧩 About Me
 
-I'm a creative and curious full-stack developer with a strong backend orientation.  
-I love building clean, maintainable systems, automating processes, and solving real world problems through code.
+I'm a **curious and creative full-stack developer** with a strong backend mindset.  
+I love building **clean, maintainable systems**, automating workflows, and solving real-world problems through elegant code.
 
-💡 I enjoy learning new technologies and continuously improving my skills—especially when it comes to Node.js, React, NestJs and modern architecture (Docker, REST APIs, MongoDB...).
+💡 Constantly learning and evolving — especially in **Node.js**, **React**, **NestJS**, and **modern architectures** (Docker, REST APIs, MongoDB…).  
+I’m passionate about turning complex ideas into smooth, reliable digital experiences.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Language      | Frontend       | Backend       | Database & Tools |
-|---------------|----------------|----------------|------------------|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) <br> ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) <br> ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) <br> ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) <br> ![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp) | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) <br> ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte) <br> ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) <br> ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) <br> ![Taillwind](https://img.shields.io/badge/-TAILWIND-black?style=flat-square&logo=tailwind) | ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) <br> ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) <br> ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs) <br> ![Django](https://img.shields.io/badge/-DJANGO-black?style=flat-square&logo=django) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) <br> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) <br> ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) <br> ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) |
+| 🧠 **Languages** | 🎨 **Frontend** | ⚙️ **Backend** | 🗄️ **Database & Tools** |
+|------------------|----------------|----------------|--------------------------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) <br> ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript) <br> ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) <br> ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java) <br> ![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=csharp) | ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) <br> ![Svelte](https://img.shields.io/badge/-Svelte-000?style=flat&logo=svelte) <br> ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5) <br> ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3) <br> ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwindcss) | ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) <br> ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express) <br> ![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs) <br> ![Django](https://img.shields.io/badge/-Django-000?style=flat&logo=django) | ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb) <br> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql) <br> ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker) <br> ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git) |
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Highlighted Projects
 
-- ✏️ **[Project Management Tool](https://github.com/lironhi/Project-Management-SCE)** – Collaborative academic task tracker  
+- ✏️ **[Project Management Tool](https://github.com/lironhi/Project-Management-SCE)** – Academic collaborative task tracker  
 - 💊 **[Medicine Reminder App](https://github.com/udiel2/MedicineReminder_App2)** – Android app for medication scheduling (Java)  
-- 💍 **[WeddingEvaliron](https://github.com/lironhi/weddingevaliron)** – My custom wedding website  
-- 📊 **[StatiCov](https://github.com/lironhi/StatiCov)** – COVID-19 data visualization app  
-- 🖥️ **[Eliana Beauty](https://github.com/lironhi/eliana-beauty)** – NodeJS/NestJS, React, Tailwindcss, Main website, CRM System, scheduling, mailing, notification system,...
+- 💍 **[WeddingEvaliron](https://github.com/lironhi/weddingevaliron)** – My personalized wedding website  
+- 📊 **[StatiCov](https://github.com/lironhi/StatiCov)** – COVID-19 data visualization and statistics platform  
+- 🖥️ **[Eliana Beauty](https://github.com/lironhi/eliana-beauty)** – NodeJS/NestJS + React + Tailwind CRM & booking system with mailer and notifications  
 
 ---
 
-## 📫 Get in Touch
+## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/liron-himbert)  
-- 📬 lironbenharrouch@gmail.com  
-- 💻 [My GitHub Projects](https://github.com/lironhi)
+🌐 [LinkedIn](https://linkedin.com/in/liron-himbert)  
+📧 **lironbenharrouch@gmail.com**  
+💻 [Explore My Projects](https://github.com/lironhi)  
 
 ---
 
-_Thanks for visiting my profile!_
+_Thanks for stopping by! Feel free to star a repo if you like what you see ⭐_
