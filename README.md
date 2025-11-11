@@ -31,7 +31,7 @@ I love building clean, maintainable systems, automating processes, and solving r
 - 💊 **[Medicine Reminder App](https://github.com/udiel2/MedicineReminder_App2)** – Android app for medication scheduling (Java)  
 - 💍 **[WeddingEvaliron](https://github.com/lironhi/weddingevaliron)** – My custom wedding website  
 - 📊 **[StatiCov](https://github.com/lironhi/StatiCov)** – COVID-19 data visualization app  
-- 🖥️ **[MCOF](https://github.com/talmi2/MCOF)** – C# desktop application
+- 🖥️ **[Eliana Beauty](https://github.com/lironhi/eliana-beauty)** – NodeJS/NestJS, React, Tailwindcss, Main website, CRM System, scheduling, mailing, notification system,...
 
 ---
 
