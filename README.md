@@ -3,7 +3,7 @@
 🎓 Software Engineer graduate from [SCE - Shamoon College of Engineering](https://sce.ac.il), passionate about building scalable, user-centered solutions using modern technologies.
 
 💼 Currently:  
-IT & Software Solutions Developer at Callisto  
+IT & FullStack Developer at Callisto  
 📍 Based in Ashkelon, Israel
 
 ---
@@ -11,7 +11,7 @@ IT & Software Solutions Developer at Callisto
 ## 🚀 About Me
 
 I'm a creative and curious full-stack developer with a strong backend orientation.  
-I love building clean, maintainable systems, automating processes, and solving real-world problems through code.
+I love building clean, maintainable systems, automating processes, and solving real world problems through code.
 
 💡 I enjoy learning new technologies and continuously improving my skills—especially when it comes to Node.js, React, NestJs and modern architecture (Docker, REST APIs, MongoDB...).
 
